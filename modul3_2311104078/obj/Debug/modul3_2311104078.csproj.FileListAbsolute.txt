@@ -1,0 +1,10 @@
+C:\Users\Naura\Documents\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\MODUL 3\modul3_2311104078\modul3_2311104078\bin\Debug\modul3_2311104078.exe.config
+C:\Users\Naura\Documents\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\MODUL 3\modul3_2311104078\modul3_2311104078\bin\Debug\modul3_2311104078.exe
+C:\Users\Naura\Documents\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\MODUL 3\modul3_2311104078\modul3_2311104078\bin\Debug\modul3_2311104078.pdb
+C:\Users\Naura\Documents\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\MODUL 3\modul3_2311104078\modul3_2311104078\obj\Debug\modul3_2311104078.csproj.AssemblyReference.cache
+C:\Users\Naura\Documents\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\MODUL 3\modul3_2311104078\modul3_2311104078\obj\Debug\modul3_2311104078.Form1.resources
+C:\Users\Naura\Documents\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\MODUL 3\modul3_2311104078\modul3_2311104078\obj\Debug\modul3_2311104078.Properties.Resources.resources
+C:\Users\Naura\Documents\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\MODUL 3\modul3_2311104078\modul3_2311104078\obj\Debug\modul3_2311104078.csproj.GenerateResource.cache
+C:\Users\Naura\Documents\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\MODUL 3\modul3_2311104078\modul3_2311104078\obj\Debug\modul3_2311104078.csproj.CoreCompileInputs.cache
+C:\Users\Naura\Documents\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\MODUL 3\modul3_2311104078\modul3_2311104078\obj\Debug\modul3_2311104078.exe
+C:\Users\Naura\Documents\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\MODUL 3\modul3_2311104078\modul3_2311104078\obj\Debug\modul3_2311104078.pdb
